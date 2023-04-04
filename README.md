@@ -1,5 +1,3 @@
-# Monthly Leetcode Challenge
-
 ## April '23
 
 ### [704. Binary Search](https://leetcode.com/problems/binary-search/)
@@ -10,3 +8,6 @@
 
 ### [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 ![April](april/boatsToSavePeople.png)
+
+### [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
+![April](april/optimalPartitionOfString.png)
