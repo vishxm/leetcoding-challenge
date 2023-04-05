@@ -11,3 +11,6 @@
 
 ### [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)
 ![April](april/optimalPartitionOfString.png)
+
+### [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
+![April](april/minimiseMaximumOfArray.png)
