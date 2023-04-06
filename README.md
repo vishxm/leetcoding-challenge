@@ -14,3 +14,6 @@
 
 ### [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/)
 ![April](april/minimiseMaximumOfArray.png)
+
+### [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)
+![April](april/numberOfClosedIslands.png)
