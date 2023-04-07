@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 ## April '23
 
 ### [Repo](https://github.com/vishxm/leetcoding-challenge)
