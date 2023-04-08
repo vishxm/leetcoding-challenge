@@ -1,6 +1,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p>
+<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=50></a></p>
+
+### [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
+![April](april/cloneGraph.png)
 
 ### [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
 ![April](april/numberOfEnclaves.png)
