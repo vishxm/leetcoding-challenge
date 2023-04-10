@@ -2,6 +2,12 @@
 
 <p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=50></a></p>
 
+### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+![April](april/validParathese.png)
+
+### [1857. Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+![April](april/largestPathValue.png)
+
 ### [133. Clone Graph](https://leetcode.com/problems/clone-graph/)
 ![April](april/cloneGraph.png)
 
