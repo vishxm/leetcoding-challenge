@@ -1,6 +1,13 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=50></a></p>
+## [Github Repo](https://github.com/vishxm/leetcoding-challenge)
+
+#
+
+<!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
+
+### [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+![April](april/removingStarsFromAString.png)
 
 ### [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 ![April](april/validParathese.png)
