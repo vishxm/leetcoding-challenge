@@ -6,6 +6,9 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/)
+![April](april/simplifyPath.png)
+
 ### [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 ![April](april/removingStarsFromAString.png)
 
