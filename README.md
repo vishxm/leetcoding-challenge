@@ -2,9 +2,10 @@
 
 ## [Github Repo](https://github.com/vishxm/leetcoding-challenge)
 
-# 
-
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
+
+### [2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+![April](april/maxValueOfCoins.png)
 
 ### [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 ![April](april/longestPalindromeSubsequence.png)
