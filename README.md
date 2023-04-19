@@ -4,6 +4,9 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [1372. Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)
+![April](april/longestZigZag.png)
+
 ### [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 ![April](april/mergeAlternately.png)
 
