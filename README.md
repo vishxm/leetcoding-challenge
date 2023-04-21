@@ -4,6 +4,9 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+![April](april/profitableSchemes.png)
+
 ### [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 ![April](april/widthOfBinaryTree.png)
 
