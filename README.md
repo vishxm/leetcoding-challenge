@@ -4,6 +4,12 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
+![April](april/numberOfArrays.png)
+
+### [1312. Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+![April](april/minInsertions.png)
+
 ### [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
 ![April](april/profitableSchemes.png)
 
