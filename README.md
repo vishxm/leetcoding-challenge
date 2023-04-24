@@ -4,6 +4,9 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
+![April](april/lastStoneWeight.png)
+
 ### [1416. Restore The Array](https://leetcode.com/problems/restore-the-array/description/)
 ![April](april/numberOfArrays.png)
 
