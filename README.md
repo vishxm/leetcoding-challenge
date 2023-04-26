@@ -4,6 +4,9 @@
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
+### [258. Add Digits](https://leetcode.com/problems/add-digits/description/)
+![](april/addDigits.png)
+
 ### [2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)
 ![April](april/SmallestInfiniteSet.png)
 
