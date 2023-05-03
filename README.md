@@ -1,10 +1,11 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-##### [Github Repo](https://github.com/vishxm/leetcoding-challenge)
+### [Github Repo](https://github.com/vishxm/leetcoding-challenge)
 
 <!--<p align="center"><a href="https://github.com/vishxm/leetcoding-challenge"><img src="https://www.pngmart.com/files/22/GitHub-PNG-Isolated-Picture.png" height=30></a></p> -->
 
 ![badge](april/2023-04.gif)
+
+### [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
+![may](may/findDifference.png)
 
 ### [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
 ![may](may/signOfProductOfArray.png)
