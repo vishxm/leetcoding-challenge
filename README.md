@@ -4,6 +4,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [649. Dota2 Senate](https://leetcode.com/problems/dota2-senate/description/)
+![may](may/predictPartyVictory.png)
+
 ### [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 ![may](may/findDifference.png)
 
