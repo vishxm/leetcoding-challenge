@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
+![may](may/numSubseq.png)
+
 ### [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)
 ![may](may/maxVowels.png)
 
