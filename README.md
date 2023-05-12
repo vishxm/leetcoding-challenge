@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
+![](may/mostPoints.png)
+
 ### [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/description/)
 ![](may/maxUncrossedLines.png)
 
