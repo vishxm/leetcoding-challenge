@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/description/)
+![](may/countGoodStrings.png)
+
 ### [2140. Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/description/)
 ![](may/mostPoints.png)
 
