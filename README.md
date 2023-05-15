@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
+![](may/swapNodes.png)
+
 ### [1799. Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/description/)
 ![](may/maxScore.png)
 
