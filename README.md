@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+![](may/swapPairs.png)
+
 ### [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 ![](may/swapNodes.png)
 
