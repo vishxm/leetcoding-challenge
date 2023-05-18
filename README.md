@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
+![](may/findSmallestSetOfVertices.png)
+
 ### [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 ![](may/pairSum.png)
 
