@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+![](may/isBipartite.png)
+
 ### [1557. Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 ![](may/findSmallestSetOfVertices.png)
 
