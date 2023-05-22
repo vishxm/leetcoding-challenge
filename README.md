@@ -2,6 +2,12 @@
 
 ![badge](april/2023-04.gif)
 
+### [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+![may](may/topKFrequent.png)
+
+### [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/)
+![may](may/shortestBridge.png)
+
 ### [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/description/)
 ![](may/calcEquation.png)
 
