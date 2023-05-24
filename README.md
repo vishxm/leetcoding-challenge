@@ -2,6 +2,9 @@
 
 ![badge](april/2023-04.gif)
 
+### [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
+![](may/maxScore2.png)
+
 ### [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
 ![](may/KthLargest.png)
 
