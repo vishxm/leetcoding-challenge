@@ -1,5 +1,7 @@
 ### [Github Repo](https://github.com/vishxm/leetcoding-challenge)
 
+![100 days badge](2023-100.gif)
+
 ![badge](april/2023-04.gif) ![](may/2023-05.gif)
 
 ### [2542. Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/)
